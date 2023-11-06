@@ -1,5 +1,5 @@
 body {
-    background-color: #F1F1F1;
+    background-color: #aa12a2;
     height: 100%;
     width: 100%;
     overflow-x: hidden;
@@ -75,7 +75,7 @@ label {
     text-align: left;
     padding-left: 24px;
     border-radius: 8px;
-    background-color: #fff;
+    background-color: #d1b8d0;
     border: 1px solid #CFCFCF;
 }
 

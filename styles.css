@@ -1,10 +1,11 @@
+
 * {
     box-sizing: border-box;
     font-family: 'Manrope', sans-serif;
 }
 
 :root {
-    --primary: #D87D4A;
+    --primary: #8134ca;
     --secondary: #101010;
     --tertiary: #F1F1F1;
     --quadrary: #FAFAFA;
